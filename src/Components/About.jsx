@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "src/images/DALL·E 2025-02-19 20.17.47 - A sleek and modern portfolio website banner featuring the name 'Saksham Kumar' in an elegant, futuristic font. The background has a stylish gradient w.webp";
 
 const imageAltText = "purple and blue abstract background";
 

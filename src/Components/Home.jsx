@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "https://files.oaiusercontent.com/file-38L7CUuuBxdtienpsL4486?se=2025-02-19T14%3A44%3A37Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Ded0d3707-6d59-4e33-afea-dc08f5651160.webp&sig=dX3gL07onL%2BoRCI4jn41wLuEfd8i1sEvzdBtikFavkU%3D";
+import image from "../images/woman-with-tablet.jpg";
 
 const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
 
