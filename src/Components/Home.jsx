@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/woman-with-tablet.jpg";
+import image from "src/images/DALL·E 2025-02-19 20.17.47 - A sleek and modern portfolio website banner featuring the name 'Saksham Kumar' in an elegant, futuristic font. The background has a stylish gradient w.webp";
 
 const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
 
