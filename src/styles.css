@@ -38,12 +38,12 @@ section img.background {
   width: 100vw;
   object-fit: contain;
   position: absolute;
-  top: 55%;
-  left: 50%;
+  top: 50%;
+  left: 70%;
   transform: translate(-50%, -50%);
   pointer-events: none;
   z-index: -1;
-  background-color: black;
+  background-color: rgb(192, 154, 154);
 }
 
 h1 {
