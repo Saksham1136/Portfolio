@@ -40,7 +40,7 @@ section img.background {
   pointer-events: none;
   position: absolute;
   top: 0;
-  transform: translate(-30%, 0);
+  transform: translate(0, 0);
   width: 100vmax;
   z-index: -1;
 }
