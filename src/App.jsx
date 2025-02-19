@@ -28,11 +28,11 @@ const siteProps = {
   title: "Salesforce Developer and Web Developer",
   email: "sakshamkumar1136@gmail.com",
   gitHub: "Saksham1136",
-  instagram: "microsoft",
+  instagram: "https://www.instagram.com/__saksham__singh_/?hl=en",
   linkedIn: "www.linkedin.com/in/saksham-kumar-66b410264",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  // medium: "",
+  // twitter: "microsoft",
+  // youTube: "Code",
 };
 
 const primaryColor = "#4E567E";
