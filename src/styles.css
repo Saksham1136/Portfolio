@@ -34,13 +34,14 @@ section.padding {
 }
 
 section img.background {
-  height: 100vh; /* Full viewport height */
-  width: 100vw; /* Full viewport width */
-  object-fit: cover; /* Ensures the image covers the entire area without distortion */
-  object-position: center; /* Centers the image */
+  height: 100%;
+  left: 50%;
+  object-fit: cover;
+  pointer-events: none;
   position: absolute;
   top: 0;
-  left: 0;
+  transform: translate(-50%, 50%);
+  width: 100vmax;
   z-index: -1;
 }
 
